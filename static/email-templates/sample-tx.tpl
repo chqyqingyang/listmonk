@@ -102,7 +102,7 @@
     </div>
     
     <div class="footer" style="text-align: center;font-size: 12px;color: #888;">
-        <p>{{ L.T "public.poweredBy" }} <a href="#" target="_blank" rel="noreferrer" style="color: #888;">Convsight</a></p>
+        <p>{{ L.T "public.poweredBy" }} <a href="#" target="_blank" rel="noreferrer" style="color: #888;"></a></p>
     </div>
 </body>
 </html>
